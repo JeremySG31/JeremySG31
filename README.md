@@ -29,13 +29,17 @@
 
 <h3>Contactar conmigo:</h3>
 <p>
-<a href="https://www.linkedin.com/in/jeremy-antonio-s%C3%A1nchez-gal%C3%A1n-a07a91229/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://www.linkedin.com/in/jeremy-antonio-s%C3%A1nchez-gal%C3%A1n-a07a91229/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 # 💻Tecnologias conocidas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,css,html,sqlite,git,github,vscode,aws,gcp,figma&theme=light" />
   </a>
+
+
+
+
 
 
 
