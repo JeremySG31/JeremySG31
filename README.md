@@ -14,7 +14,7 @@
 # 💫Acerca de mi :
 🔭 Enfocado : En mi desarrollo profesional
 
-🌱 Aprendiendo recientemente : Data analytics - 3d.js
+🌱 Aprendiendo recientemente : SQL Server
 
   👯 Dispuesto a colaborar con cualquiera
 
