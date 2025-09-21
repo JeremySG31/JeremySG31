@@ -19,9 +19,9 @@
 
   <p align="center">
     <strong>📬 Conecta conmigo</strong><br/>
-    <a href="[www.linkedin.com/in/jeremy-sánchez-a07a91229](https://www.linkedin.com/in/jeremy-s%C3%A1nchez-a07a91229)" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+<a href="https://www.linkedin.com/in/jeremydevsoft/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
   </p>
 
   <p align="center">
