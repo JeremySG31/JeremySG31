@@ -1,41 +1,39 @@
-<h3 align="center">
-  
-  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-
-  ### 👋 ¡Bienvenido al Perfil de Jeremy!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
----
-
 <div align="center">
 
-# 💫 Sobre mí
-🔭 Enfocado en mi **desarrollo profesional**  
-🌱 Aprendiendo recientemente: **SQL Server**  
-🤝 Abierto a **colaborar en proyectos**  
-💬 Dispuesto a ayudar y aprender en comunidad  
-📫 Contáctame en: **jeremy16312928@gmail.com**  
-⚡ Tengo una **mente curiosa e innovadora**  
+  <h3>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" width="100%" alt="Header decorativo" />
+    <br/>
+    <span style="font-size:20px; font-weight:600;">👋 ¡Bienvenido al Perfil de Jeremy!</span>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
+  </h3>
 
----
+  <p align="center">
+    <strong>💫 Sobre mí</strong><br/>
+    🔭 Enfocado en mi <strong>desarrollo profesional</strong><br/>
+    🌱 Aprendiendo recientemente: <strong>Kotlin</strong><br/>
+    🤝 Abierto a <strong>colaborar en proyectos</strong><br/>
+    💬 Dispuesto a ayudar y aprender en comunidad<br/>
+    📫 Contáctame en: <strong>jeremy16312928@gmail.com</strong><br/>
+    ⚡ Tengo una <strong>mente curiosa e innovadora</strong>
+  </p>
 
-# 📬 Conecta conmigo
-<a href="https://www.linkedin.com/in/jeremy-antonio-s%C3%A1nchez-gal%C3%A1n-a07a91229/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <p align="center">
+    <strong>📬 Conecta conmigo</strong><br/>
+    <a href="[www.linkedin.com/in/jeremy-sánchez-a07a91229](https://www.linkedin.com/in/jeremy-s%C3%A1nchez-a07a91229)" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </p>
 
----
+  <p align="center">
+    <strong>💻 Tecnologías y Herramientas</strong>
+  </p>
 
-# 💻 Tecnologías y Herramientas
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">  
+  <p align="center">
+    <a href="https://skillicons.dev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=py,css,html,js,cs,kotlin,idea,java,postgres,sqlite,git,github,vscode,dotnet,aws,gcp,figma&theme=light" alt="Icons tecnologias" />
+    </a>
+  </p>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,css,html,javascript,csharp,kotlin,mssql,sqlite,git,github,vscode,aws,gcp,figma&theme=light" />
-</a>
-
----
-
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" alt="Footer decorativo" />
 
 </div>
