@@ -30,7 +30,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=py,css,html,js,cs,kotlin,idea,java,postgres,sqlite,git,github,vscode,dotnet,aws,gcp,figma&theme=light" alt="Icons tecnologias" />
+      <img src="https://skillicons.dev/icons?i=py,css,html,js,cs,kotlin,idea,java,postgres,sqlite,git,github,vscode,dotnet,mongodb,aws,gcp,figma&theme=light" alt="Icons tecnologias" />
     </a>
   </p>
 
