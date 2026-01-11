@@ -15,7 +15,7 @@
   🤝 Abierto a colaborar en cualquier tipo de proyecto o prácticas junior (data, fullstack, backend, frontend... ¡lo que sea!)<br/>
   💬 Siempre dispuesto a aprender, enseñar y crecer en comunidad tech<br/>
   📫 Contáctame: <strong>jeremy16312928@gmail.com</strong><br/>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/jeremydevsoft/">Jeremy Antonio Sánchez Galán</a><br/>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/jeremydevsoft/">Jeremy Sánchez </a><br/>
   ⚡ Mente curiosa, versátil y lista para cualquier desafío
 </p>
 
