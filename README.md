@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>👋 ¡Hola! Soy Jeremy – Desarrollador Full Stack en formación</strong><br/>
-  🔭 Estudiante de Ingeniería de Software (7mo ciclo) explorando múltiples rutas: fullstack, data, backend, frontend, IA y prototipos UI/UX<br/>
+  🔭 Analista Programador explorando múltiples rutas: fullstack, data, backend, frontend, IA y prototipos UI/UX<br/>
   🌱 Aprendiendo continuamente: Kotlin, fortaleciendo Python/JavaScript/C#/Java y más<br/>
   💻 Experiencia real en proyectos variados: páginas web, APIs, programas desktop y prototipos (Figma)<br/>
   🤝 Abierto a colaborar en cualquier tipo de proyecto o prácticas junior (data, fullstack, backend, frontend... ¡lo que sea!)<br/>
